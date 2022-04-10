@@ -30,6 +30,7 @@
 
 ### Features
 
+- [x] Responsividade para celulares/tablets
 - [ ] Menu display celulares/tablets
 
 ---
