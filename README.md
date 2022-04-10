@@ -14,6 +14,14 @@
  <a href="#autor">Autor</a>
 </p>
 
+<!-- Atualizações -->
+
+### Features
+
+- [ ] Menu display celulares/tablets
+
+---
+
 <!-- Site -->
 
 <h2 align="center">Site</h2>
@@ -22,7 +30,7 @@
  <a href="https://amazinggraph-matheuspalmieri.netlify.app//">Site Do Projeto</a>
 </p>
 
-<img src="images/imagem.png" width="1366px" align="center">
+<img src="assets/imagem.png" width="1366px" align="center">
 
 ---
 
