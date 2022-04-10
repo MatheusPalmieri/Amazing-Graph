@@ -14,14 +14,6 @@
  <a href="#autor">Autor</a>
 </p>
 
-<!-- Atualizações -->
-
-### Features
-
-- [ ] Menu display celulares/tablets
-
----
-
 <!-- Site -->
 
 <h2 align="center">Site</h2>
@@ -31,6 +23,14 @@
 </p>
 
 <img src="assets/imagem.png" width="1366px" align="center">
+
+---
+
+<!-- Atualizações -->
+
+### Features
+
+- [ ] Menu display celulares/tablets
 
 ---
 
